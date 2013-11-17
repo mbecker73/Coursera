@@ -10,6 +10,7 @@ Completed
 Actively Enrolled
 -------------
 - Web Intelligence and Big Data (Indian Institute of Technology Delhi)
-- Human-Computer Interaction (University of California, San Diego) 
 - Machine Learning (Stanford University) 
 - Data Analysis (Johns Hopkins Univeristy)
+- Human-Computer Interaction (University of California, San Diego) (NO PROGRAMMING ASSIGNMENTS)
+
