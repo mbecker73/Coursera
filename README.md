@@ -11,6 +11,9 @@ Actively Enrolled
 -------------
 - Web Intelligence and Big Data (Indian Institute of Technology Delhi)
 - Machine Learning (Stanford University) 
-- Data Analysis (Johns Hopkins Univeristy)
 - Human-Computer Interaction (University of California, San Diego) (NO PROGRAMMING ASSIGNMENTS)
+
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mbecker73/coursera/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
