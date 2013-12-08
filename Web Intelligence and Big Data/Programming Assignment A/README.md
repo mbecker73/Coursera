@@ -16,3 +16,14 @@ For example, the author Alberto Pettorossi the following terms occur in titles w
 Remember that an author might have written multiple papers, which might be listed in multiple files. Further notice that ‘terms’ must exclude common stop-words, such as prepositions etc. For the purpose of this assignment, the stop-words that need to be omitted are listed in the script stopwords.py. In addition, single letter words, such as "a" can be ignored; also hyphens can be ignored (i.e. deleted). Lastly, periods, commas, etc. need to be ignored; in other words, only alphabets and numbers can be part of a title term: Thus, “program” and “program.” should both be counted as the term ‘program’, and "map-reduce" should be taken as 'map reduce'. Note: You do not need to do stemming, i.e. "algorithm" and "algorithms" can be treated as separate terms.
 
 The assignment is to write a parallel map-reduce program for the above task using either octo.py, or mincemeat.py, each of which is a lightweight map-reduce implementation written in Python.
+
+
+To run the python MR code, run the script on the server: 
+
+    python MRJob.py >output.txt
+
+Then run mincemeat on the client:
+
+	python mincemeat.py -p defaultpass localhost
+	
+The server then prints out to output.txt the necessary maps of authors to word counts
