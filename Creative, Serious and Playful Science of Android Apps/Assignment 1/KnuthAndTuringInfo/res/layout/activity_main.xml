@@ -1,0 +1,49 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/knuthHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textSize="30sp"
+        android:layout_margin="8dp"
+        android:text="Donald Knuth" />
+    
+    <ImageView
+        android:id="@+id/knuthImage"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/knuthHeader"
+        android:adjustViewBounds="true"
+        android:contentDescription="Image of Donald Knuth"
+        android:scaleType="fitXY"
+        android:layout_margin="8dp"
+        android:src="@drawable/knuth" />
+    
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fadeScrollbars="false"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="8dp"
+        android:layout_below="@id/knuthImage">
+    <TextView
+        android:id="@+id/knuthDesc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:layout_margin="8dp"
+        android:text="Donald Knuth is an American computer scientist and mathematician and currently a professor at Stanford University. He has been called the father of algorithmic analysis for his work on developing rigorous analysis techniques of the computational complexity of different algorithms. He is the author of the multi-volume The Art of Computer Programming, which is a comprehensive volume of books covering many kinds of programming algorithms and their analysis. Knuth is also the creator of the TeX computer typesetting system and the Computer Modern family of typefaces. In addition, he worked to develop the WEB and CWEB computer programming system which is used to encourage and facilitate literate programming.  Knuth is strongly opposed to granting software patents and has spoken his opinions on the matter directly to the US and European patent offices." />
+    
+	</ScrollView>
+	
+</RelativeLayout>
