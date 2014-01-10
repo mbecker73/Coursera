@@ -1,16 +1,10 @@
-Guidelines for App #1: Two Famous Computer Scientists
+App #1: Two Famous Computer Scientists
 ======================
+Directions for Assignment #1 taken from Coursera
+
 Step 1: Research for Your App
 ----------------------------
-Find and pick 2 famous computer scientists (living or dead) that you will include in your app. For each person you will need to include an image and text. Some suggested historical figures are listed below as a starting point. You're not limited to picking one of these, but we encourage learning about them and also trying to find at least 1 famous computer scientist not listed below!
-
-Ada Lovelace
-Alan Turing
-Grace Hopper
-Charles Babbage
-John von Neumann
-Donald Knuth
-
+Find and pick 2 famous computer scientists (living or dead) that you will include in your app. For each person you will need to include an image and text. 
 
 Step 2: Create Your App
 ----------------------------
