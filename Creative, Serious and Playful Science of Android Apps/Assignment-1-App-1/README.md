@@ -40,3 +40,20 @@ The image must not be too large for small phones.
 There must be at least 2 lines of text displayed in portrait view; the image should not be more than half the screen width in landscape view. Hint: Check your layout in different device screens.
 If any text is too long for the small screen, then the layout should include a scroll view.
 For accessibility purposes, add content description attributes to your images to help partially-sighted and blind users know the content of the images (blind Android users use a text-to-speech tool).
+
+Step 4: Capture Screenshots to Submit
+----------------------------
+Use the screenshot functionality in the Eclipse Devices view to take 4 screen capture pictures directly from the running device or emulator. Do not use your Windows/Mac/Linux screen capture tool.
+
+Create 4 new emulators with different screen sizes and densities (ARM API level 10 is fairly quick). Take 1 screen capture of each of the following :
+
+* Your app running in portrait mode on a [2560 x 1600 xhdpi] screen.
+* Your app running in portrait mode on a [320 x 480 mdpi] screen.
+* Your app running in landscape mode on a [1024 x 600 mdpi] screen.
+* Your app running in landscape mode on a [480 x 800 hdpi] screen.
+Name these files port-2560x1600-xhdpi.png, port-320x480-mdpi.png, land-1024x600-mdpi.png, and land-480x800-hdpi.png, and verify you are uploading the correct screenshot when you submit.
+
+Step 5: Export Your App
+----------------------------
+Export your app as a signed apk file. The apk file should be valid for at least 50 years. 
+Hint: You will need to create a key and keystore if you have not already done so.
