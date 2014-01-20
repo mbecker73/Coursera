@@ -1,0 +1,16 @@
+License information -
+
+The War of the Worlds, by H. G. Wells, Book One
+This edition is based on the public domain web edition by John Walker, which in turn was based on the Project Gutenberg electronic text (etext) edition, warw11.txt
+
+Legal notice: This document is in the public domain and may be distributed and used without any restrictions or royalties whatsoever. It is not being distributed under the Project Gutenberg trademark, and Project Gutenberg bears no responsibility or liability resulting from use of this document. (This statement is included pursuant to the "small print" at the start of the original document.) The original ASCII etext was produced by Michael Oltz at Cornell University.
+
+
+"Jabberwocky" by Lewis Carroll is from his 1871 novel "Through the Looking-Glass" which is now in the public domain.
+
+
+"Weightless U of I students debug code and test novel docking system in NASA Microgravity program" by Lawrence Angrave, 2013
+is available under Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)
+
+
+"Roundball" is part of the LimeJS project (http://www.limejs.com/), which is released under the Apache License (http://en.wikipedia.org/wiki/Apache_License)
