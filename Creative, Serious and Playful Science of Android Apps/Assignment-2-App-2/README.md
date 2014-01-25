@@ -1,0 +1,7 @@
+App #2: Build Something Creative and Interactive!
+======================
+Directions for Assignment #2 taken from Coursera
+
+App #2 must be interactive and can be about anything that is interesting to you but cannot be the same app you created for App #1 in this assignment. Be sure to test your app in an API level 10 emulator. Other than that, the content and functionality of the app is entirely up to you to decide! You will need 1 screenshot, some snippets of Java code from your activity file(s) and a signed apk file for submission.
+
+This application is meant to provide a user with basic statistics about an input Twitter handle.  The user can either login with their Twitter account or use a guest twitter account (created specifically for this app/course).  The user can then type in a Twitter username into the box, either themselves or their friend's username, and get a list of the 5 most common key words used in their last 100 tweets.  If the user chooses the guest profile, they can only view these stats on public profiles.  If they are logged in, they can view the counts from their friend's profiles that may be set to private.  It can take about a whole minute for the application to gather the data, so a progress dialog box opens up alerting the user of this.
