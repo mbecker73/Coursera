@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Madlib</string>
+    <string name="action_settings">Settings</string>
+    <string name="description">"Enter words into the form below and generate a funny story about Android to share with your friends! "</string>
+    <string name="create_story_button">Create Story!</string>
+    <string name="share_story_button">Share Story</string>
+    <string name="reset_button">Reset Form</string>
+    <string name="number">number</string>
+    <string name="number_label">Number:</string>
+    <string name="adjective">adjective</string>
+    <string name="adjective_label">Adjective:</string>
+    <string name="verb">verb</string>
+    <string name="verb_label">Action Verb:</string>
+    <string name="noun">noun</string>
+    <string name="noun_label">Plural Noun:</string>
+    <string name="name">name</string>
+    <string name="name_label">Name:</string>
+
+</resources>
