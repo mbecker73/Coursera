@@ -9,10 +9,10 @@ void setup() {
   size(600,490);
   // set background to light yellow
   background(#f6e8c1);
+  noLoop();
 }
 
 void draw() {
-  noLoop();
    // blue line
   stroke(blue);
   fill(blue);
