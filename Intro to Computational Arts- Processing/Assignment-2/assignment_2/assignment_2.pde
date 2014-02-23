@@ -18,11 +18,11 @@ void setup() {
 
 void draw() {
   while (counter < 120) {
-    float r = random(1, 5);
+    float r = random(0, 5);
     fill(palette[int(r)]);
     textSize(r*14);
     // randomly rotate the text
-    rotate(random(0, 360)); 
+    rotate(random(0, TWO_PI)); 
     textAlign(CENTER);
     text(words[int(random(1, 5))], random(width), random(height));
     counter++;
